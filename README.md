@@ -171,6 +171,8 @@ if __name__ == "__main__":
 #### transformers.py ####
 
 🧸💬 Encode-decode transformation, data preparation, and action input to model output result return. </br>
+🦭💬 The encoding-decoding is not mandatory but input transformation required for user inputs satisfies the networks machine learning requirements, duplication of input, removed duplicated input no meaning, and translates for requirements function sometimes we understand abbreviated words but the transformer makes full word and abbreviates word are similar meaning, or perfrom at the user input level. </br>
+🦭💬 Understand of tokenizer not only words chopping from sentences or input long string evaluation but statistics evaluation of important word, meaning, overall meaning and lowest to highest statistics set up for perform in the modeling process are done here in the tokenizer functions. </br>
 
 ```
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
