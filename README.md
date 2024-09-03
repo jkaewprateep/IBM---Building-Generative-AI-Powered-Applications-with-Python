@@ -92,6 +92,9 @@ IBM - Building Generative AI-Powered Applications with Python
 #### server.py ####
 
 🧸💬 Create an application response to user speech-to-text input and return voice speech in .json result set. </br>
+🐑💬 ➰ In the course and development process selecting Flask is reasonable for a minimum development programming platform with Python libraries and front-end application capable. They are applications working in asynchronous mode as the development platform is designed, class inheritance, object oriental programming architecture, readable configuration, and test and evaluation methods come with Python programming language. </br>
+🐑💬 ➰ ``` from worker import speech_to_text, text_to_speech, openai_process_message ``` Class inheritance by utilizing of function method object working in asynchronous mode in background return result set, data extraction and perform display on the designed templates we are working at. </br>
+
 
 ```
 import base64
