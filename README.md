@@ -43,6 +43,8 @@ IBM - Building Generative AI-Powered Applications with Python
 
 #### New challenge continues ####
 
+🧸💬 A single or multiple steps to the solution depend on objectives, resources, and techniques. Divided infomration and training set into multiple sets with the same data volumes may help perform better training performance. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_08.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
