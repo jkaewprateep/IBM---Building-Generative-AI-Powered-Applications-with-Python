@@ -95,6 +95,7 @@ IBM - Building Generative AI-Powered Applications with Python
 🐑💬 ➰ In the course and development process selecting Flask is reasonable for a minimum development programming platform with Python libraries and front-end application capable. They are applications working in asynchronous mode as the development platform is designed, class inheritance, object oriental programming architecture, readable configuration, and test and evaluation methods come with Python programming language. </br>
 🐑💬 ➰ ``` from worker import speech_to_text, text_to_speech, openai_process_message ``` Class inheritance by utilizing of function method object working in asynchronous mode in background return result set, data extraction and perform display on the designed templates we are working at. </br>
 
+[University of Michigan - Applied Machine Learning in Python - notes]( https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/README.md ) </br>
 
 ```
 import base64
@@ -173,6 +174,8 @@ if __name__ == "__main__":
 🧸💬 Encode-decode transformation, data preparation, and action input to model output result return. </br>
 🦭💬 The encoding-decoding is not mandatory but input transformation required for user inputs satisfies the networks machine learning requirements, duplication of input, removed duplicated input no meaning, and translates for requirements function sometimes we understand abbreviated words but the transformer makes full word and abbreviates word are similar meaning, or perfrom at the user input level. </br>
 🦭💬 Understand of tokenizer not only words chopping from sentences or input long string evaluation but statistics evaluation of important word, meaning, overall meaning and lowest to highest statistics set up for perform in the modeling process are done here in the tokenizer functions. </br>
+
+[University of Michigan - Applied Text Mining in Python - notes]( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md ) </br>
 
 ```
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
