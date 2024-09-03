@@ -28,6 +28,8 @@ IBM - Building Generative AI-Powered Applications with Python
 ### How to train AI for continuous learning ###
 
 🧸💬 Training AI with data augmentation known method for many AI machine learning developers, why a cat they understand of the mirror and random mirrors with the same information⁉️ That is because they are learnable. </br>
+🦭💬 That may be because of the cat learn from the past that continuing working will continue to have treats or success factors they like, the same information on the screen with augmentation data may varies of learners to try to understand of the information easy than random information because they had some similar and success cases they have the possibility to success again or different contrast and distractions that prevent from complete of the task to continue they have success result. </br>
+🐐💬 Sometimes brains had a mechanism to respond to some infomration than the other to save the absolute goal such as a warning sound or noticing sounds that wake our brain even at night such as glass breaking sound, hitting after wall with a low tone or suddenly high pitch, vomits sounds, the conversation of people if you are in the panic environment and horns sound they are build to wake our brain. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_06.jpg"> </br>
