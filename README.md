@@ -63,7 +63,8 @@ IBM - Building Generative AI-Powered Applications with Python
 #### Concentration ####
 
 🧸💬 In the learning stage random to distribution, few sample answers to distribution and incorrect to more accurate result, concentration makes AI machine learning perform different tasks than it before training. </br>
-🐐💬 Cats all of them are not standing on their two backside legs but human help them and want them to do when it is not easy to teach them because there is no direct communication way to them, concentration is a requirement for training because it is one factor of training success and remaining of success results. We see video clips of training goldfish to play soccer games which is hard working because goldfish is on another medium of communication and they are no guarantee of remaining results even it is a success. Re-produceable is important as learning and accuracy results. </br>
+🐐💬 Cats all of them are not standing on their two backside legs but human help them and want them to do when it is not easy to teach them because there is no direct communication way to them, concentration is a requirement for training because it is one factor of training success and remaining of success results. We see video clips of training goldfish to play soccer games which is hard working because goldfish is on another medium of communication and they are no guarantee of remaining results even it is a success. Re-producible is important as learning and accuracy results. </br>
+🐑💬 ➰ Closer example not all students can have focus reading and this skill is training since primary school to university for study and research development by self and organized communication. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_09.jpg"> </br>
