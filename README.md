@@ -360,6 +360,10 @@ def text_to_speech(text, voice=""):
 #### watson.ai ####
 
 🧸💬 Configuration for Watson API connection sample. </br>
+👧💬 🎈 Create a new instance, and initial connection credential you will have all connection requirements API from Watson in a second. </br>
+👧💬 🎈 See the sample request information return command that is easy and wait for your implementation. </br>
+
+[IBM - Machine Learning with Apache Spark - notes]( https://github.com/jkaewprateep/machinelearning_apachespark/blob/main/README.md ) </br>
 
 ```
 https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/speech-to-text/api/v1
