@@ -25,6 +25,8 @@ IBM - Building Generative AI-Powered Applications with Python
 
 ### How to train AI for continuous learning ###
 
+🧸💬 Training AI with data augmentation known method for many AI machine learning developers, why a cat they understand of the mirror and random mirrors with the same information⁉️ That is because they are learnable. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_06.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
