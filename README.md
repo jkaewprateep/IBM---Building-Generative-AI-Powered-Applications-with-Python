@@ -150,6 +150,8 @@ if __name__ == "__main__":
 
 #### transformers.py ####
 
+🧸💬 Encode-decode transformation, data preparation, and action input to model output result return. </br>
+
 ```
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
@@ -213,6 +215,8 @@ while True:
 ```
 
 #### app.py ####
+
+🧸💬 Ouput model generated application. </br>
 
 ```
 from flask import Flask, render_template            # newly added
