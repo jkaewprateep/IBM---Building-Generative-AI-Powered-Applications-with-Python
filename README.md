@@ -21,9 +21,44 @@ IBM - Building Generative AI-Powered Applications with Python
     <b> Pictures from the Internet </b> </br>
 </p>
 
+### How to train AI for continuous learning ###
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_06.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
 
-### server.py ###
+#### Find the fastest way or rewards return ####
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_07.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+#### New challenge continues ####
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_08.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+#### Concentration ####
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_09.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+#### Try best for rewards ####
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_10.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+### Implementation ###
+
+#### server.py ####
 
 ```
 import base64
