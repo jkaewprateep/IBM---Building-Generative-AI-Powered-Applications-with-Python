@@ -385,6 +385,8 @@ docker run -p 8001:8001 voice-translator-powered-by-watsonx
 
 ### hugging face-cli ###
 
+🧸💬 CLI download machine learning model sample. </br>
+
 ```
 huggingface-cli login
 huggingface-cli download meta-llama/Meta-Llama-3-8B-Instruct --include "original/*" --local-dir Meta-Llama-3-8B-Instruct
@@ -417,7 +419,7 @@ huggingface-cli download meta-llama/Meta-Llama-3-8B-Instruct --include "original
 	<img width="25%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/web22.png">
 	<img width="25%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/web23.png">
 	<img width="25%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/web24.png">
-	<img width="25%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/web25.png">
+	<img width="25%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/web25.png"> </br>
 </p>
 
 ---
