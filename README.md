@@ -87,6 +87,7 @@ IBM - Building Generative AI-Powered Applications with Python
 ### Implementation ###
 
 🧸💬 Implementation codes it is easy as they are built for implementation in project development and there are a few examples you can follow and repeat the steps of calling method for function output by specifications and improvement process, report and monitoring tools are provided when they are waiting for projects to achievements goals. </br>
+🐑💬 ➰ Repeating codes is easy but we are looking for continued developments and success project factors for customer application development and customer relationship royalty improvement. All technology, learning, and scenarios are objective to develop customer success from setup our customer success goals. We are implementing a continue development process that can be accessed by organization employees and customers and programming is a path of implementation. </br>
 
 #### server.py ####
 
