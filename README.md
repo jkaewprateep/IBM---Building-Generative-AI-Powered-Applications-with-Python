@@ -52,6 +52,8 @@ IBM - Building Generative AI-Powered Applications with Python
 
 #### Concentration ####
 
+🧸💬 In the learning stage random to distribution, few sample answers to distribution and incorrect to more accuracy result, concentration makes AI machine learning perform different tasks than it before training. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_09.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
