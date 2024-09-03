@@ -61,6 +61,8 @@ IBM - Building Generative AI-Powered Applications with Python
 
 #### Try best for rewards ####
 
+🧸💬 There is one absolute goal and simply create a driven force for machine learning to continue learning tasks. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_10.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
