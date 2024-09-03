@@ -263,9 +263,12 @@ def text_to_speech(text, voice=""):
 ```
 https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/speech-to-text/api/v1
 
-curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}' https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/text-to-speech/api/v1/synthesize?output=output_text.wav
+curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}'
+	https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
+	text-to-speech/api/v1/synthesize?output=output_text.wav
 
-curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}' https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/process-message
+curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}'
+	https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/process-message
 
 curl "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29" \
   -H 'Content-Type: application/json' \
@@ -304,7 +307,8 @@ curl "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29
 
 -----------------------
 # Generate an IAM token by using an API key
-curl -X POST 'https://iam.cloud.ibm.com/identity/token' -H 'Content-Type: application/x-www-form-urlencoded' -d 'grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=qArTNzrr9cC42N7I6D-lt_t9KylxtDVtwKvu6FvoHyWx'
+curl -X POST 'https://iam.cloud.ibm.com/identity/token' -H 'Content-Type: application/x-www-form-urlencoded'
+	-d 'grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=qArTNzrr9cC42N7I6D-lt_t9KylxtDVtwKvu6FvoHyWx'
 
 
 docker build . -t voice-translator-powered-by-watsonx
