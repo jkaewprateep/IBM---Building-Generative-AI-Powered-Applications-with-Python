@@ -263,17 +263,9 @@ def text_to_speech(text, voice=""):
 ```
 https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/speech-to-text/api/v1
 
-
 curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}' https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/text-to-speech/api/v1/synthesize?output=output_text.wav
 
-
-
 curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Hello, how are you today?"}' https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/process-message
-
-
-
-
-p-2+Qv1q/RjSP6mOozDbllZuiA==;enfTLAtDwCMiL9I/R7638Q==:e0dxPSMUDP8IwxseSashrdppVPkCPkfkzWwwbVQfBKY4C3euojG3wVgSM2y+rRTlDkD1cbwtfTFkISjB80iExkgxvXCM2qKJHA==
 
 curl "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29" \
   -H 'Content-Type: application/json' \
