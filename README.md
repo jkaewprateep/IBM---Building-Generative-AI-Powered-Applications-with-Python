@@ -325,3 +325,11 @@ docker run -p 8001:8001 voice-translator-powered-by-watsonx
 huggingface-cli login
 huggingface-cli download meta-llama/Meta-Llama-3-8B-Instruct --include "original/*" --local-dir Meta-Llama-3-8B-Instruct
 ```
+
+---
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset.png">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset_2.png"> </br>
+    <b> 🥺💬 รับจ้างเขียน functions </b> </br>
+</p>
