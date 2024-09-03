@@ -245,6 +245,8 @@ while True:
 🐯💬 Application with a front-end application that is full-stacked implementation by working and user display from asynchronous workers methods. </br>
 🐯💬 There is no limit of the input but the learning capability of communication helps improve the conversation responses performance and both are complete with the success goals, system users Culture-INFO for continued development and successive for both users and developers. </br>
 
+[IBM Django-Application-Development-with-SQL-and-Databases]( https://github.com/jkaewprateep/IBM-Django-Application-Development-with-SQL-and-Databases/blob/main/README.md ) </br>
+
 ```
 from flask import Flask, render_template            # newly added
 from flask_cors import CORS                         # newly added
