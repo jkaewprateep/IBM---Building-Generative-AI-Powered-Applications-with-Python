@@ -34,6 +34,8 @@ IBM - Building Generative AI-Powered Applications with Python
 
 #### Find the fastest way or rewards return ####
 
+🧸💬 Talking about cats is not ethics, training AI machine learning by rewarding the highest scores and returning the shortest path to a solution. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_07.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
