@@ -323,6 +323,10 @@ if __name__ == '__main__':
 #### worker.py ####
 
 🧸💬 HTTP request for .wav file gernerate. </br>
+🐐💬 Example of work class to generate worker class threads for an asynchronous process running in the background that is because both data communication sides. They are working with priority tasks and we respect this way of method in communication to have working space to complete of both side's pending tasks. </br>
+🐐💬 API invocation and error handling method for remote execution codes API. </br>
+
+[IBM Back-end JavaScript Developer - notes]( https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/README.md ) </br>
 
 ```
 def text_to_speech(text, voice=""):
