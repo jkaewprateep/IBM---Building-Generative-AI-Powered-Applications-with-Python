@@ -293,6 +293,8 @@ if __name__ == '__main__':
 
 #### worker.py ####
 
+🧸💬 HTTP request for .wav file gernerate. </br>
+
 ```
 def text_to_speech(text, voice=""):
     # Set up Watson Text-to-Speech HTTP Api url
