@@ -17,6 +17,8 @@ IBM - Building Generative AI-Powered Applications with Python
 ## Application ChatBot ##
 
 🧸💬 There are a variety of AI applications but in the middle of development understanding and response is hiring AI to perform repeat programmable tasks, expandable, searching and organizing, and concentration tasks. </br>
+🐑💬 ➰ People understand the velocity constant of AI machine-learning algorithms to understand the functions and features of input to output categorized but this is physical knowledge of programming logics when complied with the programming language for IC commands or as they are working in logical gates programming, feedback and controls and computer understanding languages. The complexity of working logic transforms from the input filters, and multiple layers of matrix solution into numerical data as neurons network weights and shape. </br>
+🐐💬 Data communications explain this complex requirement logically as remote controllers when they can perform one action to success and multiple actions to success and complete the function. Sometimes they need to transform at the transmitter or response according to the information at the receiver side or working communication for multiple steps to complete the process. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/Screenshot%202024-09-03%20143009.png"> </br>
