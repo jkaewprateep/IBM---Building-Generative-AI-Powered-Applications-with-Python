@@ -86,7 +86,7 @@ IBM - Building Generative AI-Powered Applications with Python
 
 ### Implementation ###
 
-🧸💬 ...
+🧸💬 Implementation codes it is easy as they are built for implementation in project development and there are a few examples you can follow and repeat the steps of calling method for function output by specifications and improvement process, report and monitoring tools are provided when they are waiting for projects to achievements goals. </br>
 
 #### server.py ####
 
