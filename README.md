@@ -70,7 +70,11 @@ IBM - Building Generative AI-Powered Applications with Python
 
 ### Implementation ###
 
+🧸💬 ...
+
 #### server.py ####
+
+🧸💬 Create an application response to user speech-to-text input and return voice speech in .json result set. </br>
 
 ```
 import base64
