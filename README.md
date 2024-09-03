@@ -14,6 +14,15 @@ IBM - Building Generative AI-Powered Applications with Python
     <b> Pictures from the Internet </b> </br>
 </p>
 
+## Application ChatBot ##
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/Screenshot%202024-09-03%20143009.png"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+
+
 ### server.py ###
 
 ```
