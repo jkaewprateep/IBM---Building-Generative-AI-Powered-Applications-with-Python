@@ -39,6 +39,8 @@ IBM - Building Generative AI-Powered Applications with Python
 #### Find the fastest way or rewards return ####
 
 🧸💬 Talking about cats is not ethics, training AI machine learning by rewarding the highest scores and returning the shortest path to a solution. </br>
+👧💬 🎈 We are living in an ethical and reasonable world because we are learning that living and actions in this way are safe of most people and resource management but in stressful conditions or survivability machine learning without training or ethics consideration design is performed the same way by finding the solution for most rewards return if you are training them with rewards or similar result because it create more reply in conversation. These problems need to be considered and desired one of the ways is multiple sets of input to prevent limited input to the learning process. </br>
+🐯💬 We called it a reconciliation process which is different from the evaluation process but has the same objective to maximize of evaluation matrix accuracy, proficiency, and confidence from learning of the new information input and setting up standard goals. One Culture-INFO is most of the tasks are always capable when human agents need for some practical request and improvement of the process to make sure customers have the best services return as humans perform and listen to the requirement. Training with agent answers, dataset, and performance improvement methods because humans had ethics and continued development. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_07.jpg"> </br>
