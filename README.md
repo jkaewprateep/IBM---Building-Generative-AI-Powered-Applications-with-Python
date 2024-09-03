@@ -74,6 +74,7 @@ IBM - Building Generative AI-Powered Applications with Python
 #### Try best for rewards ####
 
 🧸💬 There is one absolute goal and simply create a driven force for machine learning to continue learning tasks. </br>
+🐑💬 ➰ When there is an evaluation technique machine learning also learns the evaluation technique because of the performance training process how to remain the last training weight longer in the world of backup and re-training for high accuracy and goal achevement. This is not the problem if the solution comes closer to the goal setup for evaluation but the goal needs to set to correct the objective to have both machine learning and evaluation processes create better performance for all learning. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_10.jpg"> </br>
