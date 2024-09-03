@@ -326,6 +326,8 @@ def text_to_speech(text, voice=""):
 
 #### watson.ai ####
 
+🧸💬 Configuration for Watson API connection sample. </br>
+
 ```
 https://jkaewprateep-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/speech-to-text/api/v1
 
