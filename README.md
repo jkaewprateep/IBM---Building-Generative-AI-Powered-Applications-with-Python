@@ -50,6 +50,7 @@ IBM - Building Generative AI-Powered Applications with Python
 #### New challenge continues ####
 
 🧸💬 A single or multiple steps to the solution depend on objectives, resources, and techniques. Divided infomration and training set into multiple sets with the same data volumes may help perform better training performance. </br>
+🦁💬 Lager capacity of computation units and storage are evolving but they are not satisfied with the learning requirements. Do not forget how many years our brain was learning to speak the first language conversation and computer and perform duplication process within not many hours of learning but in the scopes of their application. Folding a dataset for training into multiple sets and evaluations can save a lot of computation power requirements when we can perform training multiple times this is called the folding technique the same way we learn language because of we do not eat Wikipedia soup or dictionary salads. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/cat_08.jpg"> </br>
